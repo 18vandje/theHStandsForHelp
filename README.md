@@ -1,5 +1,6 @@
 # theHStandsForHelp
 // WUHS: the H stands for Help
+Link to project on CodePen: https://codepen.io/18vandje/full/pVrgdV/
 
 Goals: Education and awareness of the importance of mental health; Connecting users with options to receive help from professionals or on their own.
 
