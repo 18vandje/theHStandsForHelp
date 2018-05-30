@@ -1,0 +1,14 @@
+document.getElementsByTagName("h1")[0].style.fontSize = "60px";
+
+//stats
+document.getElementById("squares").innerHTML = text;
+
+//overlaying
+
+function on() {
+    document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+    document.getElementById("overlay").style.display = "none";
+}
