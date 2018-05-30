@@ -11,3 +11,8 @@ Update 2.01: The Counseling Corner patched with the contact information and name
 
 Update 2.02: The Counseling Corner lacks a functioning interactive display consisting of boxes that change to display data on teens suffering from depression upon user hovering over them.
 
+Final update, as of 5/29/18: The website has met the inital goals of providing statistics on teenage mental health, addressing the "getting help" stigma, and presenting different resources for getting help to users. There is much room for improvement in the graphics (i.e. the scroll bar in the statistic squares when hovered over) however the current website is pleasant to the eye and usable.
+
+Goals for future edits:
+    -change the font color of the statistic squares when hovered over
+    -have the links under "more resources" be an internal pop up on the page instead of opening to a new page
